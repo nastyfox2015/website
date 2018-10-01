@@ -4,9 +4,9 @@ table.calendar {
 
 table.calendar thead {
   background-color: #5A5A5A;
-  color: white;
+  color: #FDD;
   margin-bottom: 3px;
-  border-bottom: 2px solid white
+  border-bottom: 5px solid white
 }
 
 
